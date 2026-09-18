@@ -4,6 +4,12 @@
 
 https://lightnine999.github.io/room-3d-alley/
 
+## 화면
+
+| 최종 (scene.sog, 알갱이 397만 개) | 만드는 중 확인한 화면 (초기 버전, 321만 개) |
+|---|---|
+| ![최종 화면](shots/viewer-final.png) | ![확인 화면](shots/viewer-check.png) |
+
 ## 어디를 골랐나
 
 - 단독빌라와 골목이 있는 주택가. 유튜브에 올라와 있던 영상(제기동 주택가로
